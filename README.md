@@ -1,2 +1,2 @@
 # Hospital
-A editar un proyecto ya existente o algo así
+Proyecto de 1º de DAM
